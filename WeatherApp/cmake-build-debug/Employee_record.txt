@@ -1,0 +1,35 @@
+Lagos Nigeria 0 0
+Nottingham UK 0 0
+Bourenmouth UK 0 0
+London UK 0 0
+lagos nigeria 6.95127e-310 6.95127e-310
+Milan Italy 6.95153e-310 6.95153e-310
+California USA 6.95157e-310 6.95157e-310
+California USA 6.95157e-310 6.95157e-310
+Naples Italy 6.95159e-310 1.58101e-322
+Lagos Nigeria 6.95138e-310 1.58101e-322
+Abuja Nigeria 6.95159e-310 1.58101e-322
+Lagos Nigeria 6.95126e-310 1.58101e-322
+Lagos Nigeria 6.95139e-310 1.58101e-322
+Lagos Nigeria 6.95165e-310 1.58101e-322
+accra ghana 6.95165e-310 1.58101e-322
+Accra Ghana 6.95165e-310 1.58101e-322
+Accra Ghana 6.95149e-310 1.58101e-322
+Accra Ghana 6.95149e-310 1.58101e-322
+Accra Ghana 6.95149e-310 1.58101e-322
+Imo Nigeria 6.95135e-310 1.58101e-322
+Abia Nigeria 6.95135e-310 1.58101e-322
+Paris France 6.9515e-310 1.58101e-322
+moscow russia 6.9515e-310 1.58101e-322
+Tokyo Japan 6.9515e-310 1.58101e-322
+Oslo Norway 6.95128e-310 1.58101e-322
+Nairobi Kenya 6.95142e-310 1.58101e-322
+mumbai india 6.95142e-310 1.58101e-322
+  4.55279e-312 6.95134e-310
+  4.55279e-312 6.95134e-310
+  4.55279e-312 6.95134e-310
+  4.55279e-312 6.95134e-310
+Ibadan Nigeria 7.37775 3.89725
+Kwara Nigeria 11.8333 9.6
+nairobi kenya -1.30261 36.8288
+london uk 51.5074 -0.127765

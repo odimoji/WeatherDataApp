@@ -1,0 +1,18 @@
+# ninja log v5
+5	4920	7354512216609226	CMakeFiles/untitled7.dir/AdditionalWeatherVariables.cpp.obj	55d1ba4efd8fcc50
+33	11679	7354447416481453	CMakeFiles/untitled7.dir/main.cpp.obj	18d4c2f02490e1e2
+3969	9515	7354631171674634	untitled7.exe	f8d823657b479bb3
+6	4453	7354505237540924	CMakeFiles/untitled7.dir/WeatherForecast.cpp.obj	114db62d780dfbca
+28	8817	7352524945691170	CMakeFiles/untitled7.dir/Location_management.cpp.obj	b0276d9c5fe7f7ab
+2	1037	7354720510447907	build.ninja	61ecac843778aa9d
+0	15	0	clean	f1c0810b4f0350db
+38	13810	7354470449742435	CMakeFiles/untitled7.dir/AdvancedWeatherForecast.cpp.obj	99b4bbbf6884d781
+4	3090	7354626354898501	CMakeFiles/untitled7.dir/MainMenu.cpp.obj	8bcfb105c3d185b5
+8	8114	7354573679100282	CMakeFiles/untitled7.dir/HistoricalWeather.cpp.obj	32fc8100eaa7eadd
+23	10514	7354579593306139	CMakeFiles/untitled7.dir/AdvancedHistoricalWeather.cpp.obj	6a6a462c1b27277f
+5	3968	7354631138242856	CMakeFiles/untitled7.dir/AirQuality.cpp.obj	fddd21994347c606
+58	10417	7354957706737403	CMakeFiles/untitled7.dir/EuropeanAirQuality.cpp.obj	aef3fa73cc26a850
+171	13123	7355193204830827	CMakeFiles/untitled7.dir/AirQuality.cpp.obj	fddd21994347c606
+13127	28845	7355193281398066	untitled7.exe	67364a828dfd66dc
+71	5323	7355293111544743	CMakeFiles/untitled7.dir/WeatherForecast.cpp.obj	114db62d780dfbca
+5325	12818	7355293153853996	untitled7.exe	67364a828dfd66dc
